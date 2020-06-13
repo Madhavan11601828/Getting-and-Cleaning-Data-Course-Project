@@ -11,7 +11,7 @@ The variables in the data X are sensor signals measured with waist-mounted smart
 ### Code Explanation
 The code combined training dataset and test dataset,  and extracted partial variables to create another dataset with the averages of each variable for each activity.
 
-### New dataset
+### New Generated Data set
 The new generated dataset contained variables calculated based on the mean and standard deviation. Each row of the dataset is an average of each activity type for all subjects.
 
 ### The code was written based on the instruction of this assignment
